@@ -8,6 +8,8 @@ Message2.txt<br>
 Message3.txt<br>
 Message4.txt<br><br>
 
+App pasword Link https://myaccount.google.com/apppasswords <br><br>
+
 Download Python https://www.python.org/downloads<br>
 Download VS Code https://code.visualstudio.com/download<br><br>
 
